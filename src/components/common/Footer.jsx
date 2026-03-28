@@ -137,7 +137,7 @@ const Footer = () => {
           ))}
         </div>
 
-        {/* Download apps */}
+        {/*         
         <div className="mt-12 pt-8 border-t border-dark-800">
           <div className="flex flex-col md:flex-row items-center justify-between gap-6">
             <div className="flex items-center gap-4">
@@ -165,7 +165,7 @@ const Footer = () => {
               <span className="text-dark-500 text-xs font-body">100% Safe & Trusted</span>
             </div>
           </div>
-        </div>
+        </div> */}
 
         {/* Bottom bar */}
         <div className="mt-8 pt-6 border-t border-dark-800 flex flex-col md:flex-row items-center justify-between gap-4">

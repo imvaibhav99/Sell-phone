@@ -67,8 +67,8 @@ const Testimonials = () => {
           ))}
         </div>
 
-        {/* App store badges */}
-        <div className="mt-12 text-center">
+
+        {/* <div className="mt-12 text-center">
           <p className="text-dark-400 text-sm font-body mb-4">Join 20L+ satisfied customers</p>
           <div className="flex items-center justify-center gap-4">
             <a href="#" className="flex items-center gap-3 bg-dark-900 hover:bg-dark-800 text-white px-6 py-3 rounded-xl transition-colors">
@@ -86,7 +86,7 @@ const Testimonials = () => {
               </div>
             </a>
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   );
